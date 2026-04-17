@@ -1,0 +1,10 @@
+.DS_Store
+*.swp
+*.swo
+node_modules/
+.env
+.env.local
+
+# Don't commit test vaults if users accidentally create them inside the skill folder
+test-vault/
+my-vault/
