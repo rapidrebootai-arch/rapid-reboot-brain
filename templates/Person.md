@@ -14,7 +14,7 @@ tags: []
 
 ## Mentions
 
-<!-- Auto-populated as this person is referenced in sources. -->
+<!-- Auto-populated as this person is referenced in sources. Use bullets with [[Source note]] links. -->
 
 ## Notes
 

@@ -9,7 +9,7 @@ tags: []
 
 ## Overview
 
-_What is this project? Why does it exist?_
+<!-- What is this project? Why does it exist? -->
 
 ## Status
 
@@ -19,11 +19,11 @@ _What is this project? Why does it exist?_
 
 ## Key people
 
-- [[Person Name]] — role
+<!-- Use bullets with [[First Last]] links and a dash-separated role -->
 
 ## Key concepts
 
-- [[Concept]]
+<!-- Use bullets with [[Concept name]] links -->
 
 ## Decisions log
 

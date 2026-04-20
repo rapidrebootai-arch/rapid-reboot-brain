@@ -6,7 +6,7 @@ tags: []
 
 # {{concept name}}
 
-_One-sentence definition or core idea._
+<!-- One-sentence definition or core idea. -->
 
 ## Details
 
@@ -14,11 +14,11 @@ _One-sentence definition or core idea._
 
 ## Sources
 
-- [[Source note this came from]]
+<!-- Replace with real [[Source note name]] links, one per line as bullets -->
 
 ## Related
 
-- [[Related concept]]
+<!-- Replace with real [[Related concept]] links, one per line as bullets -->
 
 ## Notes
 

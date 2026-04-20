@@ -17,22 +17,20 @@ tags: []
 
 ## Summary
 
-_3-5 sentence summary in the user's voice._
+<!-- 3-5 sentence summary in the user's voice. -->
 
 ## Key concepts
 
-- [[Concept 1]]
-- [[Concept 2]]
+<!-- Replace with real [[Concept name]] links, one per line as bullets -->
 
 ## People mentioned
 
-- [[Person Name]]
+<!-- Replace with real [[First Last]] links, one per line as bullets -->
 
 ## Projects touched
 
-- [[Project Name]]
+<!-- Replace with real [[Project name]] links, one per line as bullets -->
 
 ## Original content
 
 <!-- Full source content preserved here. For long sources, link to a separate file instead. -->
-

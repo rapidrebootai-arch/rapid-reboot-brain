@@ -8,7 +8,7 @@ tags: []
 
 ## Focus
 
-_What am I working on today?_
+<!-- What am I working on today? -->
 
 ## Sessions
 
